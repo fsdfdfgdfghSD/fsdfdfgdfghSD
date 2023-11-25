@@ -4,7 +4,7 @@
 
 Passionated programmer looking to get into the **backend web development** industry.
 
-- Know: **Lua/Luau**
+- Know: **Lua/Luau/Brainfuck**
 - Learning: **Python**
 
 <p>
